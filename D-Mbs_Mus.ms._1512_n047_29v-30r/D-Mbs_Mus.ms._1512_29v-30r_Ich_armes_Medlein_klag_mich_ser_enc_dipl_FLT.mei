@@ -1,0 +1,1267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title>Ich armes Medlein klag mich ser</title>
+         </titleStmt>
+         <editionStmt>
+            <edition/>
+            <editor xml:id="PK">
+               <persName>Paul Kieffer</persName>
+            </editor>
+            <editor xml:id="OJ">
+               <persName>Olja Janjuš</persName>
+            </editor>
+         </editionStmt>
+         <pubStmt />
+      </fileDesc>
+      <encodingDesc>
+         <appInfo>
+            <application isodate="2024-03-11" version="1.4.10">
+               <name>luteconv</name>
+            </application>
+         </appInfo>
+      </encodingDesc>
+      <workList>
+         <work>
+            <title>Ich armes Medlein klag mich ser</title>
+         </work>
+      </workList>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="mard8cg" n="1">
+            <score xml:id="s1ylxxsz">
+               <scoreDef xml:id="s1mlgaws">
+                  <staffGrp xml:id="s1gld6h5">
+                     <staffDef xml:id="s66yg82" n="1" notationtype="tab.lute.french" lines="6">
+                        <tuning xml:id="t19xu61v">
+                           <course xml:id="cz667ro" n="1" oct="4" pname="a" />
+                           <course xml:id="c49m51r" n="2" oct="4" pname="e" />
+                           <course xml:id="c1pqdgge" n="3" oct="3" pname="b" />
+                           <course xml:id="c4zn6me" n="4" oct="3" pname="g" />
+                           <course xml:id="c13t2jcl" n="5" oct="3" pname="d" />
+                           <course xml:id="c14ofty6" n="6" oct="2" pname="a" />
+                        </tuning>
+                        <meterSig xml:id="m1matyj0" count="2" sym="cut" unit="2" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="suqat3" n="1">
+                  <measure xml:id="mu94ztm" n="1">
+                     <staff xml:id="sz9en68" n="1">
+                        <layer xml:id="l1dnc6g2" n="1">
+                           <tabGrp xml:id="t10ol2wh" dur="2">
+                              <tabDurSym xml:id="tfnhuzm" />
+                              <note xml:id="n19f8pb2" tab.course="3" tab.fret="3" />
+                           </tabGrp>
+                           <tabGrp xml:id="tb0ofwq" dur="4">
+                              <tabDurSym xml:id="t1w8t3rw" />
+                              <note xml:id="n7vjjcb" tab.course="1" tab.fret="0" />
+                              <note xml:id="ngl23yh" tab.course="3" tab.fret="3" />
+                           </tabGrp>
+                           <tabGrp xml:id="t1vg3mub" dur="4">
+                              <tabDurSym xml:id="twa3j4c" />
+                              <note xml:id="nc1lx4c" tab.course="3" tab.fret="3" />
+                           </tabGrp>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m1erljg5" n="2">
+                     <staff xml:id="s1exr0g3" n="1">
+                        <layer xml:id="lupfraj" n="1">
+                           <tabGrp xml:id="tj2wbib" dur="4">
+                              <tabDurSym xml:id="t1gvw80w" />
+                              <note xml:id="n3jk6q5" tab.course="1" tab.fret="0" />
+                              <note xml:id="n118r54o" tab.course="3" tab.fret="3" />
+                           </tabGrp>
+                           <tabGrp xml:id="tk9rikr" dur="4">
+                              <tabDurSym xml:id="t1wc9z8z" />
+                              <note xml:id="n1v30k6b" tab.course="1" tab.fret="0" />
+                              <note xml:id="na2gsxh" tab.course="4" tab.fret="2" />
+                           </tabGrp>
+                           <tabGrp xml:id="t865q1l" dur="4">
+                              <tabDurSym xml:id="t1llzvz" />
+                              <note xml:id="n1load54" tab.course="1" tab.fret="0" />
+                              <note xml:id="nnpnosv" tab.course="3" tab.fret="3" />
+                           </tabGrp>
+                           <tabGrp xml:id="t1uyv2ia" dur="4">
+                              <tabDurSym xml:id="ttc8jsq" />
+                              <note xml:id="ngjjcnc" tab.course="2" tab.fret="0" />
+                           </tabGrp>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m1tsftev" n="3">
+                     <staff xml:id="s1es8x32" n="1">
+                        <layer xml:id="l2mcujf" n="1">
+                           <tabGrp xml:id="tnz2dch" dots="1" dur="4">
+                              <tabDurSym xml:id="t1age5km" />
+                              <note xml:id="ndo40wb" tab.course="1" tab.fret="0" />
+                              <note xml:id="nueuyse" tab.course="2" tab.fret="2" />
+                           </tabGrp>
+                           <tabGrp xml:id="t5b8d4t" dur="8">
+                              <tabDurSym xml:id="tkdjpel" />
+                              <note xml:id="nnr7yd0" tab.course="1" tab.fret="2" />
+                              <note xml:id="nft26ug" tab.course="2" tab.fret="3" />
+                           </tabGrp>
+                           <tabGrp xml:id="t1eajc2l" dur="4">
+                              <tabDurSym xml:id="trglu4e" />
+                              <note xml:id="n1jxvwbx" tab.course="1" tab.fret="3" />
+                              <note xml:id="n10m3nlg" tab.course="3" tab.fret="5" />
+                           </tabGrp>
+                           <tabGrp xml:id="ttwrywy" dur="4">
+                              <tabDurSym xml:id="t1flbhbt" />
+                              <note xml:id="nm4wrns" tab.course="1" tab.fret="5" />
+                              <note xml:id="nypsmah" tab.course="2" tab.fret="7" />
+                           </tabGrp>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m12jk489" n="4">
+                     <staff xml:id="sgqj0ay" n="1">
+                        <layer xml:id="lklbvrd" n="1">
+                           <beam xml:id="b1h5lqcc">
+                              <tabGrp xml:id="t1x4u0ju" dur="8">
+                                 <tabDurSym xml:id="tveqf9l" />
+                                 <note xml:id="nty0r81" tab.course="1" tab.fret="5" />
+                                 <note xml:id="n10ea3k8" tab.course="2" tab.fret="7" />
+                              </tabGrp>
+                              <tabGrp xml:id="tbgix1a" dur="8">
+                                 <tabDurSym xml:id="t1lie7ay" />
+                                 <note xml:id="n47dsy4" tab.course="1" tab.fret="3" />
+                                 <note xml:id="n19bgviq" tab.course="3" tab.fret="5" />
+                              </tabGrp>
+                           </beam>
+                           <beam xml:id="b4tuyla">
+                              <tabGrp xml:id="t17m6j4r" dur="8">
+                                 <tabDurSym xml:id="t34o2a1" />
+                                 <note xml:id="nc8m1ao" tab.course="1" tab.fret="2" />
+                              </tabGrp>
+                              <tabGrp xml:id="tbzs1mp" dur="8">
+                                 <tabDurSym xml:id="t1owkn7f" />
+                                 <note xml:id="n1weg4y1" tab.course="1" tab.fret="0" />
+                              </tabGrp>
+                           </beam>
+                           <tabGrp xml:id="t5vl2mj" dur="4">
+                              <tabDurSym xml:id="te9bzfq" />
+                              <note xml:id="n1doe2vi" tab.course="1" tab.fret="2" />
+                           </tabGrp>
+                           <tabGrp xml:id="t1uuvzk6" dur="4">
+                              <tabDurSym xml:id="t18rqyf9" />
+                              <note xml:id="n4qd6j6" tab.course="1" tab.fret="2" />
+                              <note xml:id="n1fyqj2h" tab.course="2" tab.fret="3" />
+                           </tabGrp>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mx7ddrh" n="5">
+                     <staff xml:id="s19zi2xb" n="1">
+                        <layer xml:id="l1lcacp" n="1">
+                           <beam xml:id="b17iesxj">
+                              <tabGrp xml:id="ttgzcxi" dur="8">
+                                 <tabDurSym xml:id="t11t0c79" />
+                                 <note xml:id="n1x8f6bc" tab.course="1" tab.fret="0" />
+                                 <note xml:id="n1f5etx6" tab.course="2" tab.fret="2" />
+                              </tabGrp>
+                              <tabGrp xml:id="t1dw59li" dur="8">
+                                 <tabDurSym xml:id="t2jbv4u" />
+                                 <note xml:id="n1fg4kwm" tab.course="2" tab.fret="3" />
+                              </tabGrp>
+                              <tabGrp xml:id="tefajtl" dur="8">
+                                 <tabDurSym xml:id="teqsc81" />
+                                 <note xml:id="nz3adpc" tab.course="2" tab.fret="2" />
+                              </tabGrp>
+                              <tabGrp xml:id="tu3fr4w" dur="8">
+                                 <tabDurSym xml:id="t1nmsjdh" />
+                                 <note xml:id="nxav3bg" tab.course="2" tab.fret="0" />
+                              </tabGrp>
+                           </beam>
+                           <tabGrp xml:id="t90ckb5" dur="4">
+                              <tabDurSym xml:id="t1wdv574" />
+                              <note xml:id="n7zd07o" tab.course="2" tab.fret="2" />
+                              <note xml:id="n1z0vicu" tab.course="5" tab.fret="0" />
+                           </tabGrp>
+                           <tabGrp xml:id="t1palvo2" dur="4">
+                              <tabDurSym xml:id="t16n2adi" />
+                              <note xml:id="naap6bd" tab.course="2" tab.fret="2" />
+                              <note xml:id="n1bxug3p" tab.course="4" tab.fret="2" />
+                              <note xml:id="n1d8u6kb" tab.course="5" tab.fret="0" />
+                           </tabGrp>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m1xctva" n="6">
+                     <staff xml:id="s1pn8tim" n="1">
+                        <layer xml:id="l1s1v0e5" n="1">
+                           <tabGrp xml:id="t4r59fm" dur="4">
+                              <tabDurSym xml:id="t1ipcu1e" />
+                              <note xml:id="n11tu5ld" tab.course="2" tab.fret="2" />
+                              <note xml:id="np13amu" tab.course="4" tab.fret="2" />
+                              <note xml:id="n1xubsg9" tab.course="5" tab.fret="0" />
+                           </tabGrp>
+                           <tabGrp xml:id="tojf6r4" dur="4">
+                              <tabDurSym xml:id="t1gun43f" />
+                              <note xml:id="n1eyeceb" tab.course="2" tab.fret="0" />
+                              <note xml:id="npvkdho" tab.course="4" tab.fret="2" />
+                              <note xml:id="nlgn0ve" tab.course="6" tab.fret="0" />
+                           </tabGrp>
+                           <tabGrp xml:id="t7wk3gu" dur="4">
+                              <tabDurSym xml:id="twbq95w" />
+                              <note xml:id="nlx4g31" tab.course="2" tab.fret="2" />
+                              <note xml:id="n4ne588" tab.course="4" tab.fret="2" />
+                              <note xml:id="nax36l2" tab.course="5" tab.fret="0" />
+                           </tabGrp>
+                           <tabGrp xml:id="twlx0u5" dur="4">
+                              <tabDurSym xml:id="tq8i3mg" />
+                              <note xml:id="n1demedw" tab.course="2" tab.fret="3" />
+                              <note xml:id="n14lzzhw" tab.course="5" tab.fret="2" />
+                           </tabGrp>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m1hndhb9" n="7">
+                     <staff xml:id="s16yzvfo" n="1">
+                        <layer xml:id="l19x5dak" n="1">
+                           <tabGrp xml:id="t1pfu76p" dur="4">
+                              <tabDurSym xml:id="t10su6dn" />
+                              <note xml:id="n1btuohp" tab.course="1" tab.fret="0" />
+                              <note xml:id="n1dyjn48" tab.course="4" tab.fret="2" />
+                              <note xml:id="n18v46xm" tab.course="5" tab.fret="4" />
+                           </tabGrp>
+                           <beam xml:id="b95cq4c">
+                              <tabGrp xml:id="tz43e2n" dur="8">
+                                 <tabDurSym xml:id="t1nksfa5" />
+                                 <note xml:id="ncahf1t" tab.course="4" tab.fret="2" />
+                              </tabGrp>
+                              <tabGrp xml:id="t1dcu1y0" dur="8">
+                                 <tabDurSym xml:id="tb1xg3x" />
+                                 <note xml:id="n10af64l" tab.course="2" tab.fret="3" />
+                                 <note xml:id="n194n6s3" tab.course="3" tab.fret="0" />
+                              </tabGrp>
+                           </beam>
+                           <tabGrp xml:id="t540auy" dur="4">
+                              <tabDurSym xml:id="t10to32e" />
+                              <note xml:id="n10g07gn" tab.course="1" tab.fret="0" />
+                              <note xml:id="n1t4jq7f" tab.course="3" tab.fret="1" />
+                           </tabGrp>
+                           <beam xml:id="b1vlrd2x">
+                              <tabGrp xml:id="t2k1sn9" dur="8">
+                                 <tabDurSym xml:id="twahl3l" />
+                                 <note xml:id="n1rnwj33" tab.course="1" tab.fret="2" />
+                                 <note xml:id="n1gjn5ju" tab.course="3" tab.fret="3" />
+                                 <note xml:id="nbme15m" tab.course="4" tab.fret="0" />
+                              </tabGrp>
+                              <tabGrp xml:id="t14pcw1o" dur="8">
+                                 <tabDurSym xml:id="to683wo" />
+                                 <note xml:id="n16wnesj" tab.course="1" tab.fret="3" />
+                              </tabGrp>
+                           </beam>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m1lpa9t3" n="8">
+                     <staff xml:id="s1nrwhv0" n="1">
+                        <layer xml:id="l13vmsx" n="1">
+                           <beam xml:id="bwj1bq4">
+                              <tabGrp xml:id="t3dvbph" dur="8">
+                                 <tabDurSym xml:id="tfm9rqb" />
+                                 <note xml:id="n1qsdl8j" tab.course="1" tab.fret="2" />
+                                 <note xml:id="n1ogccfz" tab.course="3" tab.fret="3" />
+                                 <note xml:id="n1f9eqw8" tab.course="4" tab.fret="0" />
+                              </tabGrp>
+                              <tabGrp xml:id="talscb7" dur="8">
+                                 <tabDurSym xml:id="txzwcq5" />
+                                 <note xml:id="n8zjxl5" tab.course="1" tab.fret="0" />
+                                 <note xml:id="n1uzla63" tab.course="3" tab.fret="1" />
+                                 <note xml:id="n1vxr1xn" tab.course="4" tab.fret="2" />
+                              </tabGrp>
+                           </beam>
+                           <beam xml:id="brtiefg">
+                              <tabGrp xml:id="t1o0neh8" dur="8">
+                                 <tabDurSym xml:id="t1kddfdw" />
+                                 <note xml:id="ngsyqv5" tab.course="1" tab.fret="0" />
+                                 <note xml:id="nm7jnay" tab.course="3" tab.fret="0" />
+                                 <note xml:id="npys4jn" tab.course="5" tab.fret="4" />
+                              </tabGrp>
+                              <tabGrp xml:id="t4ywbes" dur="8">
+                                 <tabDurSym xml:id="t1xmppmv" />
+                                 <note xml:id="nbu8h95" tab.course="4" tab.fret="2" />
+                              </tabGrp>
+                           </beam>
+                           <tabGrp xml:id="t5eiyml" dur="4">
+                              <tabDurSym xml:id="tondtx7" />
+                              <note xml:id="n1dlwc1c" tab.course="2" tab.fret="0" />
+                              <note xml:id="n13qj73f" tab.course="3" tab.fret="0" />
+                              <note xml:id="n1bytc5f" tab.course="5" tab.fret="2" />
+                           </tabGrp>
+                           <tabGrp xml:id="t1a1ovlj" dur="4">
+                              <tabDurSym xml:id="t13645tb" />
+                              <note xml:id="n12xfzfg" tab.course="2" tab.fret="4" />
+                              <note xml:id="n16bfwmt" tab.course="3" tab.fret="0" />
+                           </tabGrp>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mkrvuvf" n="9">
+                     <staff xml:id="s1gnb0u1" n="1">
+                        <layer xml:id="l1op1ovi" n="1">
+                           <tabGrp xml:id="t1pizwp2" dur="4">
+                              <tabDurSym xml:id="t84juzh" />
+                              <note xml:id="ngv5sji" tab.course="1" tab.fret="0" />
+                              <note xml:id="n4vcc7q" tab.course="4" tab.fret="2" />
+                           </tabGrp>
+                           <tabGrp xml:id="t17uynas" dur="4">
+                              <tabDurSym xml:id="t14ttlxr" />
+                              <note xml:id="nsvb9y9" tab.course="4" tab.fret="2" />
+                           </tabGrp>
+                           <tabGrp xml:id="tsrjcam" dur="4">
+                              <tabDurSym xml:id="t1smj9dk" />
+                              <note xml:id="n18xfecn" tab.course="5" tab.fret="4" />
+                           </tabGrp>
+                           <tabGrp xml:id="thd5qgx" dur="4">
+                              <tabDurSym xml:id="t1duzigt" />
+                              <note xml:id="n1troc6o" tab.course="1" tab.fret="0" />
+                              <note xml:id="n1xggnhp" tab.course="5" tab.fret="0" />
+                           </tabGrp>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="my335qm" n="10">
+                     <staff xml:id="s12oghrk" n="1">
+                        <layer xml:id="lb59qt0" n="1">
+                           <tabGrp xml:id="tae22vw" dur="4">
+                              <tabDurSym xml:id="t1uz8j2s" />
+                              <note xml:id="n95d6hl" tab.course="1" tab.fret="2" />
+                              <note xml:id="n1p5ovbw" tab.course="4" tab.fret="0" />
+                           </tabGrp>
+                           <tabGrp xml:id="tc5ro7g" dur="4">
+                              <tabDurSym xml:id="t1k8x2xc" />
+                              <note xml:id="nkrut3b" tab.course="1" tab.fret="2" />
+                           </tabGrp>
+                           <tabGrp xml:id="t13xzbvf" dur="4">
+                              <tabDurSym xml:id="tg1p7wx" />
+                              <note xml:id="n19ev1uo" tab.course="1" tab.fret="7" />
+                              <note xml:id="n1qx5832" tab.course="6" tab.fret="7" />
+                           </tabGrp>
+                           <tabGrp xml:id="t1wq7cr3" dur="4">
+                              <tabDurSym xml:id="txf3dic" />
+                              <note xml:id="nbmu38z" tab.course="1" tab.fret="2" />
+                           </tabGrp>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m1u2b5e5" n="11">
+                     <staff xml:id="s1k8xc3w" n="1">
+                        <layer xml:id="l1u4vi09" n="1">
+                           <tabGrp xml:id="t1jxb0s" dur="4">
+                              <tabDurSym xml:id="tztfemj" />
+                              <note xml:id="nmg5f6q" tab.course="1" tab.fret="3" />
+                           </tabGrp>
+                           <beam xml:id="bg8z5t7">
+                              <tabGrp xml:id="t1aq5l2w" dur="16">
+                                 <tabDurSym xml:id="tz3bo1j" />
+                                 <note xml:id="n1o3wn8b" tab.course="1" tab.fret="5" />
+                              </tabGrp>
+                              <tabGrp xml:id="tk1xmfz" dur="16">
+                                 <tabDurSym xml:id="t1ljhnyc" />
+                                 <note xml:id="n8d90wo" tab.course="1" tab.fret="3" />
+                              </tabGrp>
+                              <tabGrp xml:id="tqrclty" dur="16">
+                                 <tabDurSym xml:id="t1kgk846" />
+                                 <note xml:id="n1yq4ghq" tab.course="1" tab.fret="2" />
+                              </tabGrp>
+                              <tabGrp xml:id="t8uc6dv" dur="16">
+                                 <tabDurSym xml:id="tfts4hs" />
+                                 <note xml:id="now7df4" tab.course="1" tab.fret="0" />
+                              </tabGrp>
+                           </beam>
+                           <tabGrp xml:id="t1xqkj48" dur="4">
+                              <tabDurSym xml:id="t1yczvdv" />
+                              <note xml:id="n1x9p8li" tab.course="1" tab.fret="2" />
+                           </tabGrp>
+                           <tabGrp xml:id="t12y39wv" dur="4">
+                              <tabDurSym xml:id="t1kgokgm" />
+                              <note xml:id="n14e5guk" tab.course="1" tab.fret="0" />
+                              <note xml:id="nvwezv3" tab.course="4" tab.fret="2" />
+                              <note xml:id="n19dw3wd" tab.course="5" tab.fret="4" />
+                           </tabGrp>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m1332dl9" n="12">
+                     <staff xml:id="s1874t9v" n="1">
+                        <layer xml:id="l1tr3a2f" n="1">
+                           <tabGrp xml:id="t1ybfza1" dur="4">
+                              <tabDurSym xml:id="tcch2dw" />
+                              <note xml:id="n1g9n3v6" tab.course="2" tab.fret="3" />
+                              <note xml:id="nsc1sej" tab.course="3" tab.fret="0" />
+                              <note xml:id="n9nqpct" tab.course="5" tab.fret="2" />
+                           </tabGrp>
+                           <tabGrp xml:id="t1ee6uad" dur="4">
+                              <tabDurSym xml:id="t1ujda7d" />
+                              <note xml:id="ny5o6rk" tab.course="3" tab.fret="0" />
+                              <note xml:id="n4ocub0" tab.course="5" tab.fret="2" />
+                           </tabGrp>
+                           <tabGrp xml:id="t1xu77t" dur="4">
+                              <tabDurSym xml:id="t11jnmkg" />
+                              <note xml:id="n4fdhfm" tab.course="2" tab.fret="0" />
+                              <note xml:id="n5p3rgk" tab.course="5" tab.fret="2" />
+                           </tabGrp>
+                           <tabGrp xml:id="t7cowos" dur="4">
+                              <tabDurSym xml:id="t1x96qi3" />
+                              <note xml:id="nnhih29" tab.course="2" tab.fret="3" />
+                              <note xml:id="nvx9zwj" tab.course="3" tab.fret="0" />
+                              <note xml:id="n1l744fi" tab.course="5" tab.fret="2" />
+                           </tabGrp>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mxd3lpe" n="13">
+                     <staff xml:id="suipfya" n="1">
+                        <layer xml:id="ltt4xzp" n="1">
+                           <tabGrp xml:id="t1nb0prn" dur="4">
+                              <tabDurSym xml:id="t31if36" />
+                              <note xml:id="nwdclmg" tab.course="1" tab.fret="0" />
+                              <note xml:id="n1qujax" tab.course="3" tab.fret="1" />
+                              <note xml:id="n1yjnr8s" tab.course="4" tab.fret="2" />
+                           </tabGrp>
+                           <beam xml:id="b1m34vdb">
+                              <tabGrp xml:id="t47hl23" dur="8">
+                                 <tabDurSym xml:id="tnz7p3" />
+                                 <note xml:id="n17d27ie" tab.course="1" tab.fret="0" />
+                              </tabGrp>
+                              <tabGrp xml:id="t1f5k5j2" dur="8">
+                                 <tabDurSym xml:id="t1smv924" />
+                                 <note xml:id="n15n3m3q" tab.course="2" tab.fret="0" />
+                              </tabGrp>
+                           </beam>
+                           <beam xml:id="b13kq7hu">
+                              <tabGrp xml:id="tzc97yz" dur="8">
+                                 <tabDurSym xml:id="t1nggom3" />
+                                 <note xml:id="n1ao20s9" tab.course="2" tab.fret="2" />
+                                 <note xml:id="njddsdi" tab.course="3" tab.fret="0" />
+                                 <note xml:id="n1ou9hvc" tab.course="5" tab.fret="0" />
+                              </tabGrp>
+                              <tabGrp xml:id="t13guqdy" dur="8">
+                                 <tabDurSym xml:id="tqif2g5" />
+                                 <note xml:id="ndpk90f" tab.course="4" tab.fret="2" />
+                              </tabGrp>
+                           </beam>
+                           <tabGrp xml:id="t189b61u" dur="4">
+                              <tabDurSym xml:id="t79kxnj" />
+                              <note xml:id="n1g7pr8t" tab.course="1" tab.fret="0" />
+                              <note xml:id="nj12ix9" tab.course="3" tab.fret="3" />
+                           </tabGrp>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="metbso9" n="14">
+                     <staff xml:id="s6c4w1s" n="1">
+                        <layer xml:id="lu8rbv4" n="1">
+                           <tabGrp xml:id="t1kh9nhy" dur="2">
+                              <tabDurSym xml:id="tsj9yjx" />
+                              <note xml:id="nnkstys" tab.course="2" tab.fret="3" />
+                              <note xml:id="n1mw4but" tab.course="3" tab.fret="0" />
+                              <note xml:id="n1gmkph5" tab.course="5" tab.fret="2" />
+                           </tabGrp>
+                           <tabGrp xml:id="tgbxmgz" dur="4">
+                              <tabDurSym xml:id="t11x6ddk" />
+                              <note xml:id="nvowthi" tab.course="3" tab.fret="0" />
+                              <note xml:id="nq4k0go" tab.course="5" tab.fret="2" />
+                           </tabGrp>
+                           <tabGrp xml:id="t6svkne" dur="4">
+                              <tabDurSym xml:id="th0w4lh" />
+                              <note xml:id="n502l2g" tab.course="2" tab.fret="3" />
+                              <note xml:id="nopmnt7" tab.course="3" tab.fret="5" />
+                           </tabGrp>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mbtb69a" n="15">
+                     <staff xml:id="saaazkr" n="1">
+                        <layer xml:id="l1p7oedt" n="1">
+                           <tabGrp xml:id="tztzk2n" dur="4">
+                              <tabDurSym xml:id="ttf7akx" />
+                              <note xml:id="n1h2dudh" tab.course="2" tab.fret="2" />
+                              <note xml:id="n1k2zuxp" tab.course="3" tab.fret="3" />
+                           </tabGrp>
+                           <tabGrp xml:id="t1b96cay" dur="4">
+                              <tabDurSym xml:id="t5pmivd" />
+                              <note xml:id="n1qfnozj" tab.course="1" tab.fret="2" />
+                              <note xml:id="n19hxxm9" tab.course="2" tab.fret="3" />
+                           </tabGrp>
+                           <tabGrp xml:id="t10owc95" dur="4">
+                              <tabDurSym xml:id="t1tl6w8s" />
+                              <note xml:id="ng5dba2" tab.course="1" tab.fret="2" />
+                              <note xml:id="n1k1na0q" tab.course="2" tab.fret="3" />
+                           </tabGrp>
+                           <tabGrp xml:id="tj9zv58" dur="4">
+                              <tabDurSym xml:id="tizpirt" />
+                              <note xml:id="ncl35cr" tab.course="1" tab.fret="0" />
+                              <note xml:id="nwzvtli" tab.course="2" tab.fret="2" />
+                           </tabGrp>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mi8adtq" n="16">
+                     <staff xml:id="sl5iuut" n="1">
+                        <layer xml:id="lvze7cz" n="1">
+                           <tabGrp xml:id="tftgku0" dur="4">
+                              <tabDurSym xml:id="tdz935t" />
+                              <note xml:id="nbofl5e" tab.course="2" tab.fret="3" />
+                              <note xml:id="n1hlh5ew" tab.course="3" tab.fret="5" />
+                           </tabGrp>
+                           <tabGrp xml:id="t175n8gi" dur="4">
+                              <tabDurSym xml:id="ti11qz1" />
+                              <note xml:id="n11kjjk7" tab.course="2" tab.fret="2" />
+                              <note xml:id="n1s6fa59" tab.course="3" tab.fret="3" />
+                           </tabGrp>
+                           <beam xml:id="b1lry0bf">
+                              <tabGrp xml:id="t1xxxvz1" dur="8">
+                                 <tabDurSym xml:id="t1cgnum9" />
+                                 <note xml:id="n17pd4vg" tab.course="2" tab.fret="0" />
+                              </tabGrp>
+                              <tabGrp xml:id="t1rgk6lt" dur="8">
+                                 <tabDurSym xml:id="thcirut" />
+                                 <note xml:id="n3mzkrj" tab.course="3" tab.fret="3" />
+                              </tabGrp>
+                              <tabGrp xml:id="t7v9jdq" dur="8">
+                                 <tabDurSym xml:id="t14wuohn" />
+                                 <note xml:id="n15pk1k9" tab.course="2" tab.fret="0" />
+                              </tabGrp>
+                              <tabGrp xml:id="tyw9rg3" dur="8">
+                                 <tabDurSym xml:id="t15ybtms" />
+                                 <note xml:id="n1j1fi6z" tab.course="2" tab.fret="2" />
+                              </tabGrp>
+                           </beam>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mvwyupb" n="17">
+                     <staff xml:id="sdf9lwm" n="1">
+                        <layer xml:id="l1uimsvs" n="1">
+                           <beam xml:id="b16qatsu">
+                              <tabGrp xml:id="t4bqa1f" dur="8">
+                                 <tabDurSym xml:id="t1l05z2r" />
+                                 <note xml:id="naisii2" tab.course="2" tab.fret="3" />
+                              </tabGrp>
+                              <tabGrp xml:id="t1kcqzfy" dur="8">
+                                 <tabDurSym xml:id="t14ty2u2" />
+                                 <note xml:id="n12ix5ib" tab.course="1" tab.fret="0" />
+                              </tabGrp>
+                           </beam>
+                           <beam xml:id="bj65wus">
+                              <tabGrp xml:id="tn1g3t8" dur="8">
+                                 <tabDurSym xml:id="tltkivs" />
+                                 <note xml:id="n10jn8du" tab.course="1" tab.fret="2" />
+                                 <note xml:id="n18g3rur" tab.course="5" tab.fret="2" />
+                              </tabGrp>
+                              <tabGrp xml:id="t6ohb2o" dur="8">
+                                 <tabDurSym xml:id="t1f4hddp" />
+                                 <note xml:id="ndiy49q" tab.course="2" tab.fret="3" />
+                              </tabGrp>
+                           </beam>
+                           <tabGrp xml:id="tczc78o" dur="4">
+                              <tabDurSym xml:id="t1uqng51" />
+                              <note xml:id="nlpnurj" tab.course="1" tab.fret="0" />
+                              <note xml:id="n13t205g" tab.course="5" tab.fret="4" />
+                           </tabGrp>
+                           <tabGrp xml:id="t5voh9x" dur="4">
+                              <tabDurSym xml:id="tcvnwh5" />
+                              <note xml:id="n1d8lgxc" tab.course="2" tab.fret="2" />
+                              <note xml:id="n1c94qy4" tab.course="3" tab.fret="0" />
+                           </tabGrp>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mwj09rt" n="18">
+                     <staff xml:id="sv53cfi" n="1">
+                        <layer xml:id="ls08n3p" n="1">
+                           <beam xml:id="bq1h3c7">
+                              <tabGrp xml:id="t133c44e" dur="8">
+                                 <tabDurSym xml:id="t1k8w01" />
+                                 <note xml:id="ni6c9v1" tab.course="3" tab.fret="0" />
+                              </tabGrp>
+                              <tabGrp xml:id="t1ohgi8" dur="8">
+                                 <tabDurSym xml:id="tbmq7qr" />
+                                 <note xml:id="nmahdkv" tab.course="2" tab.fret="3" />
+                              </tabGrp>
+                           </beam>
+                           <tabGrp xml:id="t18498ef" dur="4">
+                              <tabDurSym xml:id="t1y7w61v" />
+                              <note xml:id="n1t0w3u5" tab.course="1" tab.fret="0" />
+                              <note xml:id="n1ff1wmn" tab.course="4" tab.fret="2" />
+                           </tabGrp>
+                           <tabGrp xml:id="tktff4f" dur="4">
+                              <tabDurSym xml:id="t1fcwy58" />
+                              <note xml:id="n1r6vu2r" tab.course="1" tab.fret="2" />
+                              <note xml:id="nnlpzrl" tab.course="4" tab.fret="0" />
+                           </tabGrp>
+                           <tabGrp xml:id="tku2ead" dur="4">
+                              <tabDurSym xml:id="t1ndnu7i" />
+                              <note xml:id="n18xex8k" tab.course="1" tab.fret="0" />
+                              <note xml:id="n1o5tvx9" tab.course="4" tab.fret="2" />
+                              <note xml:id="n40ntlm" tab.course="5" tab.fret="4" />
+                           </tabGrp>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m1yzy2fw" n="19">
+                     <staff xml:id="sbsfw3j" n="1">
+                        <layer xml:id="lcr3cs6" n="1">
+                           <tabGrp xml:id="t1czi6yz" dur="4">
+                              <tabDurSym xml:id="tibiie0" />
+                              <note xml:id="nlq7jrb" tab.course="2" tab.fret="3" />
+                              <note xml:id="nlpvg7j" tab.course="3" tab.fret="0" />
+                              <note xml:id="nr3ctnn" tab.course="5" tab.fret="2" />
+                           </tabGrp>
+                           <beam xml:id="b150lrxf">
+                              <tabGrp xml:id="th8c1i" dur="8">
+                                 <tabDurSym xml:id="tth1tgu" />
+                                 <note xml:id="n3wwx6r" tab.course="2" tab.fret="0" />
+                              </tabGrp>
+                              <tabGrp xml:id="t124xqxb" dur="8">
+                                 <tabDurSym xml:id="tknqhcg" />
+                                 <note xml:id="n1njkpbt" tab.course="1" tab.fret="0" />
+                                 <note xml:id="n15qbqop" tab.course="5" tab.fret="4" />
+                              </tabGrp>
+                           </beam>
+                           <beam xml:id="bp8u96j">
+                              <tabGrp xml:id="t1svdiud" dur="8">
+                                 <tabDurSym xml:id="t1icy9g4" />
+                                 <note xml:id="no4trlm" tab.course="1" tab.fret="2" />
+                                 <note xml:id="n1tiqar7" tab.course="2" tab.fret="0" />
+                                 <note xml:id="n31x5wn" tab.course="4" tab.fret="0" />
+                              </tabGrp>
+                              <tabGrp xml:id="t2cb69r" dur="8">
+                                 <tabDurSym xml:id="tkawl1w" />
+                                 <note xml:id="n8nu5vu" tab.course="4" tab.fret="2" />
+                              </tabGrp>
+                           </beam>
+                           <beam xml:id="b1mawf0l">
+                              <tabGrp xml:id="tkrtrzp" dur="8">
+                                 <tabDurSym xml:id="t11iwf5w" />
+                                 <note xml:id="nak7fh3" tab.course="3" tab.fret="3" />
+                                 <note xml:id="n2xk7qi" tab.course="4" tab.fret="4" />
+                              </tabGrp>
+                              <tabGrp xml:id="to6t4l7" dur="8">
+                                 <tabDurSym xml:id="t16l2fn7" />
+                                 <note xml:id="n1716dha" tab.course="4" tab.fret="0" />
+                              </tabGrp>
+                           </beam>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mdw7x0q" n="20">
+                     <staff xml:id="smbkcas" n="1">
+                        <layer xml:id="l1fzya5g" n="1">
+                           <tabGrp xml:id="t1o9fu49" dur="4">
+                              <tabDurSym xml:id="t1htylwq" />
+                              <note xml:id="n1xqe8b2" tab.course="2" tab.fret="0" />
+                              <note xml:id="na9rocv" tab.course="3" tab.fret="1" />
+                              <note xml:id="n1hd1pkp" tab.course="4" tab.fret="2" />
+                           </tabGrp>
+                           <tabGrp xml:id="ttfis9i" dur="4">
+                              <tabDurSym xml:id="t3wzmls" />
+                              <note xml:id="n1wig1ft" tab.course="2" tab.fret="3" />
+                              <note xml:id="n1sqj4v0" tab.course="3" tab.fret="0" />
+                              <note xml:id="nlrbcpd" tab.course="5" tab.fret="2" />
+                           </tabGrp>
+                           <tabGrp xml:id="th388wc" dur="4">
+                              <tabDurSym xml:id="tqmqckv" />
+                              <note xml:id="n131fltx" tab.course="1" tab.fret="0" />
+                              <note xml:id="n10rr8k7" tab.course="4" tab.fret="2" />
+                           </tabGrp>
+                           <beam xml:id="b1gpi0gq">
+                              <tabGrp xml:id="t1j48lh7" dur="8">
+                                 <tabDurSym xml:id="t154gv8l" />
+                                 <note xml:id="n15a1psx" tab.course="4" tab.fret="2" />
+                              </tabGrp>
+                              <tabGrp xml:id="t2kewfm" dur="8">
+                                 <tabDurSym xml:id="t12qn0ai" />
+                                 <note xml:id="n1c93udh" tab.course="3" tab.fret="3" />
+                                 <note xml:id="n1cgy8jv" tab.course="4" tab.fret="4" />
+                              </tabGrp>
+                           </beam>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mhdhdrh" n="21">
+                     <staff xml:id="sxa30rl" n="1">
+                        <layer xml:id="l1b3x5pp" n="1">
+                           <tabGrp xml:id="t1mmwmex" dur="4">
+                              <tabDurSym xml:id="tjw7gmj" />
+                              <note xml:id="n1upxbu9" tab.course="3" tab.fret="1" />
+                           </tabGrp>
+                           <tabGrp xml:id="ttynflf" dur="4">
+                              <tabDurSym xml:id="t6xokbj" />
+                              <note xml:id="nxu31hf" tab.course="1" tab.fret="0" />
+                              <note xml:id="n1e5aouq" tab.course="3" tab.fret="3" />
+                              <note xml:id="nc1gq3x" tab.course="5" tab.fret="0" />
+                           </tabGrp>
+                           <tabGrp xml:id="t17r6lnw" dur="4">
+                              <tabDurSym xml:id="t1p08zns" />
+                              <note xml:id="nx020ao" tab.course="1" tab.fret="2" />
+                              <note xml:id="n16itk84" tab.course="4" tab.fret="0" />
+                           </tabGrp>
+                           <tabGrp xml:id="txrpt3s" dur="4">
+                              <tabDurSym xml:id="t4puddc" />
+                              <note xml:id="n15w9gfh" tab.course="2" tab.fret="0" />
+                           </tabGrp>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mrexgn6" n="22">
+                     <staff xml:id="s1e3p19z" n="1">
+                        <layer xml:id="liyryrb" n="1">
+                           <tabGrp xml:id="t1myk9s4" dur="4">
+                              <tabDurSym xml:id="tus3odv" />
+                              <note xml:id="n6jetki" tab.course="1" tab.fret="0" />
+                              <note xml:id="nbkqsau" tab.course="3" tab.fret="1" />
+                              <note xml:id="n13yiyo7" tab.course="4" tab.fret="2" />
+                           </tabGrp>
+                           <tabGrp xml:id="t1gd46eg" dur="4">
+                              <tabDurSym xml:id="t1sozqlb" />
+                              <note xml:id="n130bigz" tab.course="2" tab.fret="3" />
+                              <note xml:id="n1hje2hz" tab.course="3" tab.fret="0" />
+                              <note xml:id="n1patqhp" tab.course="5" tab.fret="2" />
+                           </tabGrp>
+                           <tabGrp xml:id="tjcq5j0" dur="4">
+                              <tabDurSym xml:id="t6w1hv4" />
+                              <note xml:id="nsin5nu" tab.course="1" tab.fret="0" />
+                              <note xml:id="np4mq8k" tab.course="4" tab.fret="2" />
+                           </tabGrp>
+                           <tabGrp xml:id="t1uobsam" dur="4">
+                              <tabDurSym xml:id="tx5i3z3" />
+                              <note xml:id="n38emgb" tab.course="1" tab.fret="2" />
+                              <note xml:id="npfbnrf" tab.course="5" tab.fret="2" />
+                           </tabGrp>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m16fe6ds" n="23">
+                     <staff xml:id="s1wf4wws" n="1">
+                        <layer xml:id="l1kbvms3" n="1">
+                           <tabGrp xml:id="t13bn62f" dur="4">
+                              <tabDurSym xml:id="t13u9zwf" />
+                              <note xml:id="ncn31fa" tab.course="1" tab.fret="3" />
+                              <note xml:id="n15qqynb" tab.course="4" tab.fret="2" />
+                              <note xml:id="n1wpaahs" tab.course="6" tab.fret="0" />
+                           </tabGrp>
+                           <beam xml:id="b11wk0cj">
+                              <tabGrp xml:id="t15p5je2" dur="8">
+                                 <tabDurSym xml:id="tuydqc8" />
+                                 <note xml:id="nm6i9wd" tab.course="4" tab.fret="2" />
+                              </tabGrp>
+                              <tabGrp xml:id="t1tzcizb" dur="8">
+                                 <tabDurSym xml:id="t1dh1sfy" />
+                                 <note xml:id="n1bh3rbp" tab.course="1" tab.fret="5" />
+                                 <note xml:id="n1fa5w6l" tab.course="4" tab.fret="4" />
+                              </tabGrp>
+                           </beam>
+                           <tabGrp xml:id="t1kzlgxo" dur="4">
+                              <tabDurSym xml:id="t1kpgax5" />
+                              <note xml:id="n445kh0" tab.course="1" tab.fret="3" />
+                              <note xml:id="nq6fjy1" tab.course="3" tab.fret="1" />
+                           </tabGrp>
+                           <tabGrp xml:id="tnfpmog" dur="4">
+                              <tabDurSym xml:id="tjuy6j0" />
+                              <note xml:id="n3h1ajw" tab.course="1" tab.fret="2" />
+                              <note xml:id="n1qjburi" tab.course="3" tab.fret="3" />
+                              <note xml:id="n1xx9uzb" tab.course="4" tab.fret="0" />
+                           </tabGrp>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="me31ba2" n="24">
+                     <staff xml:id="s19ki4ak" n="1">
+                        <layer xml:id="l18f01j2" n="1">
+                           <beam xml:id="bwctrnk">
+                              <tabGrp xml:id="tnfdu0q" dur="8">
+                                 <tabDurSym xml:id="tlxlti6" />
+                                 <note xml:id="nerl56f" tab.course="5" tab.fret="0" />
+                              </tabGrp>
+                              <tabGrp xml:id="t16h98du" dur="8">
+                                 <tabDurSym xml:id="tippl9w" />
+                                 <note xml:id="n1fzpmdk" tab.course="1" tab.fret="0" />
+                                 <note xml:id="ni9lx64" tab.course="3" tab.fret="1" />
+                              </tabGrp>
+                           </beam>
+                           <beam xml:id="bflbhdb">
+                              <tabGrp xml:id="ts15lu" dur="8">
+                                 <tabDurSym xml:id="t1rv50l3" />
+                                 <note xml:id="n14gr8fp" tab.course="1" tab.fret="0" />
+                                 <note xml:id="npl8rwu" tab.course="3" tab.fret="0" />
+                                 <note xml:id="nsxvkr7" tab.course="5" tab.fret="4" />
+                              </tabGrp>
+                              <tabGrp xml:id="tlqcbuw" dur="8">
+                                 <tabDurSym xml:id="t1lv65ox" />
+                                 <note xml:id="nqffvd7" tab.course="4" tab.fret="2" />
+                              </tabGrp>
+                           </beam>
+                           <beam xml:id="b11ux7vd">
+                              <tabGrp xml:id="t1f7jc7f" dur="8">
+                                 <tabDurSym xml:id="t1wzv0y3" />
+                                 <note xml:id="n1skvwld" tab.course="2" tab.fret="0" />
+                                 <note xml:id="n4n6obk" tab.course="3" tab.fret="0" />
+                                 <note xml:id="n1hlb9at" tab.course="5" tab.fret="2" />
+                              </tabGrp>
+                              <tabGrp xml:id="txh3fnq" dur="8">
+                                 <tabDurSym xml:id="tawyrfn" />
+                                 <note xml:id="n1688crw" tab.course="1" tab.fret="0" />
+                              </tabGrp>
+                           </beam>
+                           <beam xml:id="bmciae7">
+                              <tabGrp xml:id="tg40dod" dur="16">
+                                 <tabDurSym xml:id="tojf0zf" />
+                                 <note xml:id="n1ykaioj" tab.course="2" tab.fret="4" />
+                              </tabGrp>
+                              <tabGrp xml:id="tg0nl5r" dur="16">
+                                 <tabDurSym xml:id="t1g0hbub" />
+                                 <note xml:id="n9wmr4l" tab.course="1" tab.fret="0" />
+                              </tabGrp>
+                              <tabGrp xml:id="thbuysg" dur="16">
+                                 <tabDurSym xml:id="t1rtp155" />
+                                 <note xml:id="n1hsj0q4" tab.course="1" tab.fret="2" />
+                              </tabGrp>
+                              <tabGrp xml:id="t1eomj2k" dur="16">
+                                 <tabDurSym xml:id="t1uboxnn" />
+                                 <note xml:id="n1yuwbp9" tab.course="2" tab.fret="4" />
+                              </tabGrp>
+                           </beam>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mydfwon" n="25">
+                     <staff xml:id="shhfz30" n="1">
+                        <layer xml:id="l177sd2e" n="1">
+                           <tabGrp xml:id="t61vgvj" dur="4">
+                              <tabDurSym xml:id="t113qqgc" />
+                              <note xml:id="n82xrnm" tab.course="1" tab.fret="0" />
+                              <note xml:id="n16qc5k1" tab.course="4" tab.fret="2" />
+                           </tabGrp>
+                           <tabGrp xml:id="t1udy2q" dur="4">
+                              <tabDurSym xml:id="t97idbj" />
+                              <note xml:id="n1xv1dox" tab.course="4" tab.fret="2" />
+                           </tabGrp>
+                           <tabGrp xml:id="t1j1ulg1" dur="4">
+                              <tabDurSym xml:id="t189rxu7" />
+                              <note xml:id="nsznmq3" tab.course="4" tab.fret="2" />
+                           </tabGrp>
+                           <tabGrp xml:id="ti6eu3g" dur="4">
+                              <tabDurSym xml:id="tesxcod" />
+                              <note xml:id="n1s0ug6u" tab.course="1" tab.fret="7" />
+                              <note xml:id="n3kz9xn" tab.course="5" tab.fret="7" />
+                           </tabGrp>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m1menkd" n="26">
+                     <staff xml:id="ss6rq88" n="1">
+                        <layer xml:id="l79ypne" n="1">
+                           <tabGrp xml:id="t7eguvb" dur="4">
+                              <tabDurSym xml:id="tgd4ixi" />
+                              <note xml:id="nbzgk10" tab.course="1" tab.fret="7" />
+                              <note xml:id="n1geyq6i" tab.course="6" tab.fret="7" />
+                           </tabGrp>
+                           <tabGrp xml:id="tcyjw69" dur="4">
+                              <tabDurSym xml:id="tj8mxuc" />
+                              <note xml:id="n1qi1q0c" tab.course="1" tab.fret="7" />
+                              <note xml:id="n1ri41lu" tab.course="2" tab.fret="0" />
+                           </tabGrp>
+                           <tabGrp xml:id="t5ufmk6" dur="4">
+                              <tabDurSym xml:id="tdo1yre" />
+                              <note xml:id="nnx7cu6" tab.course="1" tab.fret="2" />
+                              <note xml:id="nez4ce" tab.course="2" tab.fret="0" />
+                           </tabGrp>
+                           <tabGrp xml:id="t7wubn8" dur="4">
+                              <tabDurSym xml:id="t16jzezs" />
+                              <note xml:id="n1ekryl3" tab.course="2" tab.fret="0" />
+                           </tabGrp>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="msrf6jk" n="27">
+                     <staff xml:id="szjtsm9" n="1">
+                        <layer xml:id="lvncxti" n="1">
+                           <tabGrp xml:id="t19lqkx8" dur="4">
+                              <tabDurSym xml:id="t11ujycb" />
+                              <note xml:id="n1l47k1k" tab.course="3" tab.fret="0" />
+                           </tabGrp>
+                           <tabGrp xml:id="tg3mtvm" dur="4">
+                              <tabDurSym xml:id="t12mnz38" />
+                              <note xml:id="n1n2ypo5" tab.course="1" tab.fret="2" />
+                           </tabGrp>
+                           <tabGrp xml:id="t1ibr6ef" dur="4">
+                              <tabDurSym xml:id="tk17xdj" />
+                              <note xml:id="nmnf48s" tab.course="1" tab.fret="0" />
+                           </tabGrp>
+                           <tabGrp xml:id="t1j2ndll" dur="4">
+                              <tabDurSym xml:id="t13shs3s" />
+                              <note xml:id="nj83233" tab.course="2" tab.fret="3" />
+                           </tabGrp>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m109w0i0" n="28">
+                     <staff xml:id="s1r2ycam" n="1">
+                        <layer xml:id="lk8k261" n="1">
+                           <tabGrp xml:id="t1ll4k2a" dur="4">
+                              <tabDurSym xml:id="t1q5kjsm" />
+                              <note xml:id="nc03hxg" tab.course="2" tab.fret="0" />
+                           </tabGrp>
+                           <tabGrp xml:id="t1ud8g8q" dur="4">
+                              <tabDurSym xml:id="t6t1qac" />
+                              <note xml:id="n1sh2g7o" tab.course="2" tab.fret="0" />
+                              <note xml:id="n1p3gbvw" tab.course="6" tab.fret="3" />
+                           </tabGrp>
+                           <tabGrp xml:id="t1qfplk2" dur="4">
+                              <tabDurSym xml:id="tllvow2" />
+                              <note xml:id="nz4n20w" tab.course="2" tab.fret="2" />
+                              <note xml:id="n143mjz5" tab.course="3" tab.fret="3" />
+                              <note xml:id="nxbq4dx" tab.course="5" tab.fret="0" />
+                           </tabGrp>
+                           <tabGrp xml:id="t1rvderf" dur="4">
+                              <tabDurSym xml:id="t1v5piz6" />
+                              <note xml:id="n1vqm5j9" tab.course="2" tab.fret="3" />
+                              <note xml:id="n90feui" tab.course="3" tab.fret="1" />
+                              <note xml:id="nur13f" tab.course="5" tab.fret="2" />
+                           </tabGrp>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m1t1h08r" n="29">
+                     <staff xml:id="scde220" n="1">
+                        <layer xml:id="l10yoqkg" n="1">
+                           <tabGrp xml:id="tfyct33" dur="4">
+                              <tabDurSym xml:id="tjvv1j1" />
+                              <note xml:id="nw7z7qo" tab.course="1" tab.fret="0" />
+                              <note xml:id="n19c51ig" tab.course="4" tab.fret="2" />
+                              <note xml:id="nbqxqf6" tab.course="5" tab.fret="3" />
+                           </tabGrp>
+                           <tabGrp xml:id="t73ecp5" dur="4">
+                              <tabDurSym xml:id="tazlkmt" />
+                              <note xml:id="ng9ihdl" tab.course="1" tab.fret="0" />
+                           </tabGrp>
+                           <tabGrp xml:id="t1nhr07e" dur="4">
+                              <tabDurSym xml:id="t1jhgtxq" />
+                              <note xml:id="nuc2099" tab.course="5" tab.fret="2" />
+                           </tabGrp>
+                           <tabGrp xml:id="t1m442be" dur="4">
+                              <tabDurSym xml:id="t1m9qq98" />
+                              <note xml:id="ng72m8w" tab.course="2" tab.fret="4" />
+                              <note xml:id="n181iqz4" tab.course="3" tab.fret="0" />
+                           </tabGrp>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mldywdb" n="30">
+                     <staff xml:id="sqnm5tb" n="1">
+                        <layer xml:id="l13cla99" n="1">
+                           <tabGrp xml:id="t1qhky65" dur="4">
+                              <tabDurSym xml:id="ttuq5le" />
+                              <note xml:id="njthw4y" tab.course="1" tab.fret="0" />
+                              <note xml:id="n4rrs5j" tab.course="4" tab.fret="2" />
+                           </tabGrp>
+                           <tabGrp xml:id="te90fzd" dur="4">
+                              <tabDurSym xml:id="tyyq69j" />
+                              <note xml:id="n1elgkjd" tab.course="4" tab.fret="2" />
+                           </tabGrp>
+                           <tabGrp xml:id="tmk00qh" dur="4">
+                              <tabDurSym xml:id="t1ogplja" />
+                              <note xml:id="n1n1bxjo" tab.course="4" tab.fret="2" />
+                           </tabGrp>
+                           <tabGrp xml:id="t4b4w8m" dur="4">
+                              <tabDurSym xml:id="t1m2gzd0" />
+                              <note xml:id="n1g2adbk" tab.course="1" tab.fret="7" />
+                              <note xml:id="n1plznf3" tab.course="5" tab.fret="7" />
+                           </tabGrp>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m1mtpfb" n="31">
+                     <staff xml:id="swkbygc" n="1">
+                        <layer xml:id="l1c3o7ua" n="1">
+                           <tabGrp xml:id="t1hicf61" dur="4">
+                              <tabDurSym xml:id="t1hckmz5" />
+                              <note xml:id="n1g9nn5" tab.course="1" tab.fret="7" />
+                              <note xml:id="n7q8q3a" tab.course="6" tab.fret="7" />
+                           </tabGrp>
+                           <beam xml:id="bj99fua">
+                              <tabGrp xml:id="tyz42m7" dur="8">
+                                 <tabDurSym xml:id="t1tiluqw" />
+                                 <note xml:id="n1qqlkqi" tab.course="1" tab.fret="7" />
+                                 <note xml:id="n12npx22" tab.course="2" tab.fret="0" />
+                              </tabGrp>
+                              <tabGrp xml:id="tie0fu6" dur="8">
+                                 <tabDurSym xml:id="tghitn6" />
+                                 <note xml:id="n8mzfas" tab.course="5" tab.fret="4" />
+                              </tabGrp>
+                           </beam>
+                           <tabGrp xml:id="tdo0v9e" dur="4">
+                              <tabDurSym xml:id="tgzqe2h" />
+                              <note xml:id="n11245s5" tab.course="1" tab.fret="2" />
+                              <note xml:id="nzhys7c" tab.course="2" tab.fret="0" />
+                              <note xml:id="ncuk2pn" tab.course="4" tab.fret="0" />
+                           </tabGrp>
+                           <tabGrp xml:id="t1ytsai" dur="4">
+                              <tabDurSym xml:id="trps7x0" />
+                              <note xml:id="nkwsaqy" tab.course="1" tab.fret="3" />
+                              <note xml:id="nbyd2kq" tab.course="2" tab.fret="0" />
+                              <note xml:id="n1tp4kin" tab.course="4" tab.fret="2" />
+                           </tabGrp>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mf0hn45" n="32">
+                     <staff xml:id="s8d2bex" n="1">
+                        <layer xml:id="ljj5or6" n="1">
+                           <beam xml:id="b41okdi">
+                              <tabGrp xml:id="t1rgixob" dur="8">
+                                 <tabDurSym xml:id="tmp2ml9" />
+                                 <note xml:id="n1j8br3z" tab.course="1" tab.fret="5" />
+                                 <note xml:id="nbkq1wu" tab.course="3" tab.fret="0" />
+                                 <note xml:id="ngil3i1" tab.course="4" tab.fret="0" />
+                              </tabGrp>
+                              <tabGrp xml:id="tpmgwre" dur="8">
+                                 <tabDurSym xml:id="t1vayf0z" />
+                                 <note xml:id="nvoeeqm" tab.course="1" tab.fret="3" />
+                              </tabGrp>
+                              <tabGrp xml:id="t1k4qn1s" dur="8">
+                                 <tabDurSym xml:id="t48h2y1" />
+                                 <note xml:id="n1t8c7tx" tab.course="1" tab.fret="2" />
+                              </tabGrp>
+                              <tabGrp xml:id="t151pb5w" dur="8">
+                                 <tabDurSym xml:id="t16mnlvp" />
+                                 <note xml:id="nu2bzbj" tab.course="1" tab.fret="0" />
+                              </tabGrp>
+                           </beam>
+                           <tabGrp xml:id="t1sc85nf" dur="4">
+                              <tabDurSym xml:id="t11sn3a1" />
+                              <note xml:id="np9kuvf" tab.course="2" tab.fret="3" />
+                           </tabGrp>
+                           <tabGrp xml:id="toppszt" dur="4">
+                              <tabDurSym xml:id="td062sl" />
+                              <note xml:id="nmuqknl" tab.course="2" tab.fret="0" />
+                              <note xml:id="nlr9zbz" tab.course="6" tab.fret="3" />
+                           </tabGrp>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mup8t3f" n="33">
+                     <staff xml:id="s68ccha" n="1">
+                        <layer xml:id="l78cutg" n="1">
+                           <tabGrp xml:id="ti8tphf" dur="4">
+                              <tabDurSym xml:id="tlka39e" />
+                              <note xml:id="n3cgdr6" tab.course="2" tab.fret="2" />
+                              <note xml:id="n1x6lscd" tab.course="3" tab.fret="3" />
+                              <note xml:id="n18gjqw" tab.course="5" tab.fret="0" />
+                           </tabGrp>
+                           <tabGrp xml:id="t1n750ed" dur="4">
+                              <tabDurSym xml:id="te1nmmx" />
+                              <note xml:id="nez7f6i" tab.course="2" tab.fret="3" />
+                              <note xml:id="n11t24xv" tab.course="3" tab.fret="1" />
+                              <note xml:id="n1aijdpm" tab.course="5" tab.fret="2" />
+                           </tabGrp>
+                           <beam xml:id="b1okrljl">
+                              <tabGrp xml:id="t1ws1inh" dur="8">
+                                 <tabDurSym xml:id="to7tbr9" />
+                                 <note xml:id="n1261psf" tab.course="1" tab.fret="0" />
+                                 <note xml:id="n18ra9iq" tab.course="4" tab.fret="2" />
+                                 <note xml:id="nzsnqw8" tab.course="5" tab.fret="3" />
+                              </tabGrp>
+                              <tabGrp xml:id="t1fsxy8s" dur="8">
+                                 <tabDurSym xml:id="t1te60pd" />
+                                 <note xml:id="n1svofw2" tab.course="4" tab.fret="0" />
+                              </tabGrp>
+                              <tabGrp xml:id="t173kyit" dur="8">
+                                 <tabDurSym xml:id="t7hmqxr" />
+                                 <note xml:id="n1qglp2s" tab.course="4" tab.fret="2" />
+                              </tabGrp>
+                              <tabGrp xml:id="t1tg5oop" dur="8">
+                                 <tabDurSym xml:id="t182tc2j" />
+                                 <note xml:id="n1td3kbg" tab.course="3" tab.fret="0" />
+                              </tabGrp>
+                           </beam>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mdj87c7" n="34">
+                     <staff xml:id="s1ld2klw" n="1">
+                        <layer xml:id="l16iclrv" n="1">
+                           <tabGrp xml:id="trpt1k3" dur="4">
+                              <tabDurSym xml:id="t13jrh6a" />
+                              <note xml:id="n1f6h87i" tab.course="2" tab.fret="3" />
+                              <note xml:id="nozv06j" tab.course="3" tab.fret="1" />
+                              <note xml:id="n7gez0a" tab.course="5" tab.fret="2" />
+                           </tabGrp>
+                           <tabGrp xml:id="t1crkglf" dur="4">
+                              <tabDurSym xml:id="t1fcf6ya" />
+                              <note xml:id="nd91awi" tab.course="2" tab.fret="2" />
+                              <note xml:id="nyn2dom" tab.course="3" tab.fret="3" />
+                              <note xml:id="n12ecayn" tab.course="5" tab.fret="0" />
+                           </tabGrp>
+                           <tabGrp xml:id="t1tc5anv" dur="4">
+                              <tabDurSym xml:id="tlvtec8" />
+                              <note xml:id="n1rrem1c" tab.course="1" tab.fret="2" />
+                              <note xml:id="n1e9wq3" tab.course="4" tab.fret="0" />
+                           </tabGrp>
+                           <tabGrp xml:id="t1yv65wl" dur="4">
+                              <tabDurSym xml:id="t158x1rg" />
+                              <note xml:id="neoilck" tab.course="2" tab.fret="0" />
+                              <note xml:id="n1q2zm91" tab.course="5" tab.fret="2" />
+                           </tabGrp>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m1n4xijy" n="35">
+                     <staff xml:id="s863fwd" n="1">
+                        <layer xml:id="lu4ukdd" n="1">
+                           <tabGrp xml:id="tolv5w2" dur="4">
+                              <tabDurSym xml:id="t2q736o" />
+                              <note xml:id="nietpnd" tab.course="1" tab.fret="0" />
+                              <note xml:id="n1n2trb3" tab.course="3" tab.fret="1" />
+                              <note xml:id="n1gfndyl" tab.course="4" tab.fret="2" />
+                           </tabGrp>
+                           <tabGrp xml:id="tsvgmhj" dur="4">
+                              <tabDurSym xml:id="tgr2i9f" />
+                              <note xml:id="nsa6zep" tab.course="2" tab.fret="3" />
+                              <note xml:id="n1o0r8xc" tab.course="3" tab.fret="0" />
+                              <note xml:id="nqsvx95" tab.course="5" tab.fret="2" />
+                           </tabGrp>
+                           <tabGrp xml:id="t1a2lr1m" dur="4">
+                              <tabDurSym xml:id="t1ndi2d5" />
+                              <note xml:id="nkg3ksy" tab.course="1" tab.fret="0" />
+                              <note xml:id="ndpcv0u" tab.course="4" tab.fret="2" />
+                           </tabGrp>
+                           <tabGrp xml:id="tvslx23" dur="4">
+                              <tabDurSym xml:id="t1sdx60o" />
+                              <note xml:id="n1xu8x9z" tab.course="2" tab.fret="3" />
+                              <note xml:id="n1fr5kcy" tab.course="3" tab.fret="0" />
+                              <note xml:id="nilneh5" tab.course="5" tab.fret="2" />
+                           </tabGrp>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mhe0p6n" n="36">
+                     <staff xml:id="s8zvbmh" n="1">
+                        <layer xml:id="l1nxhek1" n="1">
+                           <tabGrp xml:id="t18ltdp" dur="4">
+                              <tabDurSym xml:id="t1c29c6z" />
+                              <note xml:id="n1ijjnfw" tab.course="1" tab.fret="0" />
+                              <note xml:id="n1qrt3ui" tab.course="3" tab.fret="1" />
+                              <note xml:id="neks1bc" tab.course="4" tab.fret="2" />
+                           </tabGrp>
+                           <beam xml:id="b1jprb9o">
+                              <tabGrp xml:id="t131j654" dur="8">
+                                 <tabDurSym xml:id="tez4t4i" />
+                                 <note xml:id="n1sj1tdq" tab.course="3" tab.fret="1" />
+                                 <note xml:id="n3ttge6" tab.course="4" tab.fret="2" />
+                              </tabGrp>
+                              <tabGrp xml:id="t1xbxz4l" dur="8">
+                                 <tabDurSym xml:id="tfjm3ej" />
+                                 <note xml:id="n13n1bx" tab.course="2" tab.fret="3" />
+                                 <note xml:id="n9qtohw" tab.course="3" tab.fret="0" />
+                              </tabGrp>
+                           </beam>
+                           <tabGrp xml:id="t169nicp" dur="4">
+                              <tabDurSym xml:id="t13z4trx" />
+                              <note xml:id="n1wu24pp" tab.course="1" tab.fret="0" />
+                              <note xml:id="n1b0sbz5" tab.course="3" tab.fret="1" />
+                              <note xml:id="n1xj0g8j" tab.course="4" tab.fret="2" />
+                           </tabGrp>
+                           <tabGrp xml:id="t1oj889n" dur="4">
+                              <tabDurSym xml:id="t1xz9tdt" />
+                              <note xml:id="nwr66sm" tab.course="1" tab.fret="2" />
+                              <note xml:id="n1o4yocl" tab.course="3" tab.fret="3" />
+                              <note xml:id="neeemdv" tab.course="4" tab.fret="0" />
+                           </tabGrp>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mr3boih" n="37">
+                     <staff xml:id="s41ysff" n="1">
+                        <layer xml:id="lf5frki" n="1">
+                           <beam xml:id="b1a5i26s">
+                              <tabGrp xml:id="t1oia0yv" dur="8">
+                                 <tabDurSym xml:id="t2k98u9" />
+                                 <note xml:id="nwsrhof" tab.course="5" tab.fret="3" />
+                              </tabGrp>
+                              <tabGrp xml:id="t1ph03w3" dur="8">
+                                 <tabDurSym xml:id="tlixrqs" />
+                                 <note xml:id="n1los0wv" tab.course="1" tab.fret="0" />
+                                 <note xml:id="nllw12x" tab.course="3" tab.fret="1" />
+                              </tabGrp>
+                              <tabGrp xml:id="t1cydtt2" dur="8">
+                                 <tabDurSym xml:id="tjgzdfn" />
+                                 <note xml:id="nhcaovr" tab.course="1" tab.fret="0" />
+                                 <note xml:id="n1sigyax" tab.course="3" tab.fret="0" />
+                              </tabGrp>
+                              <tabGrp xml:id="t1p1635x" dur="8">
+                                 <tabDurSym xml:id="tnefkpe" />
+                                 <note xml:id="nsxth4x" tab.course="4" tab.fret="2" />
+                              </tabGrp>
+                           </beam>
+                           <beam xml:id="buphtpi">
+                              <tabGrp xml:id="tmmaw3t" dur="16">
+                                 <tabDurSym xml:id="tdho8is" />
+                                 <note xml:id="nvvon8z" tab.course="3" tab.fret="0" />
+                                 <note xml:id="nh6194b" tab.course="5" tab.fret="2" />
+                              </tabGrp>
+                              <tabGrp xml:id="taf3vtg" dur="16">
+                                 <tabDurSym xml:id="tdh1m9y" />
+                                 <note xml:id="nb7esee" tab.course="1" tab.fret="0" />
+                              </tabGrp>
+                              <tabGrp xml:id="tw6u8y0" dur="16">
+                                 <tabDurSym xml:id="ti3nviu" />
+                                 <note xml:id="n1sgoc14" tab.course="2" tab.fret="4" />
+                              </tabGrp>
+                              <tabGrp xml:id="tzg1afe" dur="16">
+                                 <tabDurSym xml:id="t1emqmbr" />
+                                 <note xml:id="nui2ibe" tab.course="2" tab.fret="2" />
+                              </tabGrp>
+                           </beam>
+                           <beam xml:id="b9v4y8f">
+                              <tabGrp xml:id="t4ry765" dur="16">
+                                 <tabDurSym xml:id="t1w7jzvd" />
+                                 <note xml:id="njge0rk" tab.course="2" tab.fret="4" />
+                              </tabGrp>
+                              <tabGrp xml:id="twkcmrr" dur="16">
+                                 <tabDurSym xml:id="tnfm65k" />
+                                 <note xml:id="n1tk8vho" tab.course="1" tab.fret="0" />
+                              </tabGrp>
+                              <tabGrp xml:id="t23cmvc" dur="16">
+                                 <tabDurSym xml:id="tev6m20" />
+                                 <note xml:id="n12rzk7v" tab.course="1" tab.fret="2" />
+                              </tabGrp>
+                              <tabGrp xml:id="tzkhem4" dur="16">
+                                 <tabDurSym xml:id="t3zmpk4" />
+                                 <note xml:id="ngd4kq0" tab.course="2" tab.fret="4" />
+                              </tabGrp>
+                           </beam>
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="mxen0s5" right="end" n="38">
+                     <staff xml:id="st8qt4k" n="1">
+                        <layer xml:id="lirrsdm" n="1">
+                           <tabGrp xml:id="id0" dur="1">
+                              <note xml:id="n1taf8jq" tab.course="1" tab.fret="0" />
+                              <note xml:id="ntzsy5h" tab.course="2" tab.fret="0" />
+                              <note xml:id="n1h8f3a4" tab.course="4" tab.fret="2" />
+                              <note xml:id="n1qrvx1a" tab.course="6" tab.fret="0" />
+                           </tabGrp>
+                        </layer>
+                     </staff>
+                     <fermata xml:id="fsts2b8" startid="#id0" />
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

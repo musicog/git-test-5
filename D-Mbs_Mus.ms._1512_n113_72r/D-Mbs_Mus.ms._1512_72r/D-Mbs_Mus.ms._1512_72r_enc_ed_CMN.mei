@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+   <meiHead xml:id="mz14lu1">
+      <fileDesc xml:id="fg3eg5f">
+         <titleStmt xml:id="t9thb4m">
+            <title/>
+            <respStmt/>
+         </titleStmt>
+         <editionStmt>
+         	<edition></edition>
+            <editor xml:id="KS">
+               <persName>Kataryna Schöning</persName>
+            </editor>
+            <editor xml:id="OJ">
+               <persName>Olja Janjuš</persName>
+            </editor>
+         </editionStmt>
+         <pubStmt xml:id="p13xxke1">
+            <date isodate="2023-11-14" type="encoding-date">2023-11-14</date>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="egz6m1x">
+         <appInfo xml:id="a1p9o2m1">
+            <application xml:id="ayrni2g" isodate="2023-11-14T20:05:59" version="4.0.1-a99660b">
+               <name xml:id="n1r2ozyg">Verovio</name>
+               <p xml:id="p1fg4ubn">Transcoded from MusicXML</p>
+            </application>
+            <application xml:id="a059qg31" startdate="2024-04-23T16:28:07" version="1.0.12">
+               <name xml:id="nyz0owb1">mei-friend</name>
+               <p xml:id="pdmtt1n2">First edit by mei-friend 1.0.12, 16 April 2024.</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music xml:id="mxv80ib">
+      <body xml:id="b7ssyll1">
+         <mdiv xml:id="mpm8920">
+            <score xml:id="s6jum8w">
+               <scoreDef xml:id="sz81f9o">
+                  <staffGrp xml:id="s1gpwk57">
+                     <staffGrp xml:id="s4taz2s">
+                        <grpSym xml:id="gaqt1f1"/>
+                        <staffGrp xml:id="P1" bar.thru="true">
+                           <instrDef xml:id="igrws6f" midi.channel="0" midi.instrnum="25" midi.volume="78.00%"/>
+                           <staffDef xml:id="sqd94pf" lines="5" n="1" ppq="1">
+                              <clef xml:id="c1ri6yx5" line="2" shape="G"/>
+                              <keySig xml:id="k1waa65i" sig="0"/>
+                           </staffDef>
+                           <staffDef xml:id="s1n9uxwq" lines="5" n="2" ppq="1">
+                              <clef xml:id="caqqstv" line="4" shape="F"/>
+                              <keySig xml:id="k4hjbwq" sig="0"/>
+                           </staffDef>
+                        </staffGrp>
+                     </staffGrp>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="ss7c4os">
+                  <measure xml:id="mbkal9w" n="1" right="end">
+                     <staff xml:id="s1j8nmul" n="1">
+                        <layer xml:id="l1hni31b" n="1">
+                           <note xml:id="n13mss1q" dur="4" dur.ppq="1" oct="5" pname="f" stem.dir="down"/>
+                           <note xml:id="nsxxrdj" dur="4" dur.ppq="1" oct="5" pname="e" stem.dir="down"/>
+                           <note xml:id="n8grxel" dur="4" dur.ppq="1" oct="5" pname="d" stem.dir="down"/>
+                           <note xml:id="na5off7" dur="4" dur.ppq="1" oct="5" pname="c" stem.dir="down"/>
+                           <note xml:id="njzw4bx" dur="4" dur.ppq="1" oct="4" pname="b" stem.dir="down"/>
+                           <note xml:id="nduzis" dur="4" dur.ppq="1" oct="4" pname="a" stem.dir="up"/>
+                           <note xml:id="n1jv071f" dur="4" dur.ppq="1" oct="4" pname="g" stem.dir="up"/>
+                           <note xml:id="n1irdogu" dur="4" dur.ppq="1" oct="4" pname="f" stem.dir="up"/>
+                           <note xml:id="n1lzwgw6" dur="4" dur.ppq="1" oct="4" pname="e" stem.dir="up"/>
+                           <note xml:id="nanypu5" dur="4" dur.ppq="1" oct="4" pname="d" stem.dir="up"/>
+                           <note xml:id="nis7qpj" dur="4" dur.ppq="1" oct="4" pname="c" stem.dir="up"/>
+                           <note xml:id="n1jv8wor" dur="4" dur.ppq="1" oct="3" pname="b" stem.dir="up"/>
+                           <note xml:id="n12hizuj" dur="1" dur.ppq="4" oct="3" pname="a"/>
+                        </layer>
+                     </staff>
+                     <staff xml:id="s56q2fg" n="2">
+                        <layer xml:id="l1soj4h" n="5">
+                           <note xml:id="ndcitpw" dur="4" dur.ppq="1" oct="4" pname="f" stem.dir="down"/>
+                           <note xml:id="n1qvodl8" dur="4" dur.ppq="1" oct="4" pname="e" stem.dir="down"/>
+                           <note xml:id="nqlrbbp" dur="4" dur.ppq="1" oct="4" pname="d" stem.dir="down"/>
+                           <note xml:id="ngox0um" dur="4" dur.ppq="1" oct="4" pname="c" stem.dir="down"/>
+                           <note xml:id="n1powssn" dur="4" dur.ppq="1" oct="3" pname="b" stem.dir="down"/>
+                           <note xml:id="n10kcmr6" dur="4" dur.ppq="1" oct="3" pname="a" stem.dir="down"/>
+                           <note xml:id="n1j67hut" dur="4" dur.ppq="1" oct="3" pname="g" stem.dir="down"/>
+                           <note xml:id="nzmppm7" dur="4" dur.ppq="1" oct="3" pname="f" stem.dir="down"/>
+                           <note xml:id="nv07vr1" dur="4" dur.ppq="1" oct="3" pname="e" stem.dir="down"/>
+                           <note xml:id="n1d9y93w" dur="4" dur.ppq="1" oct="3" pname="d" stem.dir="down"/>
+                           <note xml:id="n1gpqpsz" dur="4" dur.ppq="1" oct="3" pname="c" stem.dir="up"/>
+                           <note xml:id="nasw2i5" dur="4" dur.ppq="1" oct="2" pname="b" stem.dir="up"/>
+                           <note xml:id="n1ufdnsf" dur="1" dur.ppq="4" oct="2" pname="a"/>
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>

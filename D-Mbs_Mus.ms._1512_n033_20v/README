@@ -1,0 +1,26 @@
+Manual transcription into MuseScore by Olja Janjuš
+Fronimo by Paul Kieffer, small adjustments by Olja Janjuš, not aligned
+
+Notes:
+_ed_CMN
+measure 16: repetition in the middle of the bar or end?
+
+_dipl_GLT
+- measure 4, tstamp 3: <sb> must be rendered
+- measure 4, tstamp 1-3: another characters
+- measure 4, tstamp 1, 3: another characters
+- measure 9, tstamp 3: <sb> must be rendered
+- measure 14, tstamp 3: <sb> must be rendered
+- measure 14, tstamp 3: another character
+- measure 15, tstamp 1: another character
+- measure 16, tstamp 1: another character
+- measure 17, tstamp 1, 3, 4: another characters
+- measure 18, tstamp 1: another character
+- measure 19, tstamp 3.5, 4, 4.5: another character
+- measure 19, tstamp 2: <sb> must be rendered
+- measure 21, tstamp 8: <sb> must be rendered
+
+piece is "im Abzug" = lowest course tuned town one tone (the tuning parameters in Ft3 and midi reflect this) - PK
+
+*luteconv can't export the MEI
+*Error: mini_gz_unpack -3
